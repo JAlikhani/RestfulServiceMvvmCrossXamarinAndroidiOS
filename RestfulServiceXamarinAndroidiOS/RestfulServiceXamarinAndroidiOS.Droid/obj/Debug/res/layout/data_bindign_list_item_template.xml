@@ -1,0 +1,1 @@
+<TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:padding="20dp" local:MvxBind="Text Title;Click GoCommand" android:textAppearance="?android:attr/textAppearanceLarge" xmlns:local="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" />
